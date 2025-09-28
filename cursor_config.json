@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "voiceflow-docs": {
+      "command": "python",
+      "args": ["/Users/daipayanhati/Desktop/Personal Projects/Voiceflow MCP/voiceflow_mcp_server.py"],
+      "env": {}
+    }
+  }
+}
